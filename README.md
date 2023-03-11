@@ -4,7 +4,7 @@ Kxneki:~/Bureau/ python3 .py
 Kxneki@kali
 -----------------
 Username: Kxneki
-Discord: .gg/
+Discord: https://discord.gg/rTDgENTcdA
   
 Kxneki@kali
 -----------------
